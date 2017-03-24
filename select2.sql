@@ -1,1 +1,1 @@
-select 'test' from dual; /*second sql*/
+select 'test2' from dual; /*second sql*/
